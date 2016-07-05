@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>AEM Journey Package</comment>
+<entry key="createdBy">kari.thrastarson</entry>
+<entry key="name">aemjourney-content</entry>
+<entry key="created">2016-07-05T14:12:55.488+0200</entry>
+<entry key="groupId">com.adobe.aemjourney</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">AEM Journey</entry>
+<entry key="description">Maven Multimodule project for AEM Journey.</entry>
+<entry key="artifactId">aemjourney-content</entry>
+<entry key="path">/etc/packages/AEM Journey/aemjourney-content.zip</entry>
+</properties>
