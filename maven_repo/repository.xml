@@ -1,7 +1,7 @@
-<repository lastmodified='20160705030000.004'>
+<repository lastmodified='20160706125240.975'>
   <resource id='com.adobe.aemjourney.aemjourney-bundle/1.0.0.SNAPSHOT' symbolicname='com.adobe.aemjourney.aemjourney-bundle' presentationname='AEM Journey Bundle' uri='com/adobe/aemjourney/aemjourney-bundle/1.0-SNAPSHOT/aemjourney-bundle-1.0-SNAPSHOT.jar' version='1.0.0.SNAPSHOT'>
     <description>Maven Multimodule project for AEM Journey.</description>
-    <size>6959</size>
+    <size>6960</size>
     <capability name='bundle'>
       <p n='symbolicname' v='com.adobe.aemjourney.aemjourney-bundle'/>
       <p n='presentationname' v='AEM Journey Bundle'/>

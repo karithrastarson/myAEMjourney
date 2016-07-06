@@ -4,7 +4,7 @@
 <comment>AEM Journey Package</comment>
 <entry key="createdBy">kari.thrastarson</entry>
 <entry key="name">aemjourney-content</entry>
-<entry key="created">2016-07-05T15:00:00.400+0200</entry>
+<entry key="created">2016-07-06T12:52:41.671+0200</entry>
 <entry key="groupId">com.adobe.aemjourney</entry>
 <entry key="version">1.0-SNAPSHOT</entry>
 <entry key="requiresRoot">false</entry>
